@@ -9,9 +9,12 @@ The data set contains;•	age and gender of the patient,diagnosis of the patient
 In this project i utilised Microsft Excel;
 Pivot Tables,Charts, Graphs and Formulas
 ## Data preparation
- ### Data cleaning
-   #### Removing duplicates and Null values
+In this process we ensured that the data is of consistent and uniform format.This process ensures thata thr data is more reliable, ananylzable and valuable by rsolving inconsistencies and errors.
+ ### Removing Duplicates
+ ### Checking missing values
  ### Data standardization
+ ### Creating Age Bands
+ 
 ## Pivot tables
 ## Analysis
 ### KPIs
