@@ -8,15 +8,16 @@ The data set contains;•	age and gender of the patient,diagnosis of the patient
 ## Tools used
 In this project i utilised Microsft Excel;
 Pivot Tables, Charts, Graphs and Formulas
-## Data preparation
+## Data preparation and Standardization
 In this process we ensured that the data is of consistent and uniform format.This process ensures thata thr data is more reliable, ananylzable and valuable by rsolving inconsistencies and errors.We did the following steps as for data preparation;
  ### 1. Removing Duplicates
  We checked for duplicates and several rows were found and removed leaving only unique values.
+ 
     <img width="1161" height="310" alt="removing duplicates" src="https://github.com/user-attachments/assets/1ed2c539-cbcc-4ac7-adaa-d06a33ce0d44" />
 
  ### 2. Checking missing values
  we checked for blanks but found none
- <img width="490" height="219" alt="finding blanks" src="https://github.com/user-attachments/assets/9c9a246f-edf4-469d-9697-4b46a50d986e" />
+   <img width="490" height="219" alt="finding blanks" src="https://github.com/user-attachments/assets/9c9a246f-edf4-469d-9697-4b46a50d986e" />
 
  ### 3. Data standardization
  
