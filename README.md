@@ -14,6 +14,12 @@ In this process we ensured that the data is of consistent and uniform format.Thi
  ### Checking missing values
  ### Data standardization
  ### Creating Age Bands
+  In this step we added a new column H "Age Bands" using Excel formula IF
+  <img width="1215" height="76" alt="age bands" src="https://github.com/user-attachments/assets/2fc22b8f-87aa-4c7b-bfe6-02108a228894" /> 
+we then filled the formuala down the column H that we named "Age Bands"
+<img width="149" height="440" alt="age bands 2" src="https://github.com/user-attachments/assets/76852e14-7f65-489d-9071-dbac951641a6" />
+
+  
  
 ## Pivot tables
 ## Analysis
