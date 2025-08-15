@@ -8,6 +8,9 @@ The data set contains;•	age and gender of the patient,diagnosis of the patient
 ## Tools used
 In this project i utilised Microsft Excel;
 Pivot Tables, Charts, Graphs and Formulas
+## Understanding the Data
+Before any proceudure we had to understand the data first, so that we can ensure the analysis is relevant, accurate and leads to meaningful insights. There are some columns on the data that had been filled using medical terms/abbreveations that could be used understood only medics,So we delved into the and fish out their meanings for easier understanding by everyone.They inlcude;
+
 ## Data preparation and Standardization
 In this process we ensured that the data is of consistent and uniform format.This process ensures thata thr data is more reliable, ananylzable and valuable by rsolving inconsistencies and errors.We did the following steps as for data preparation;
  ### 1. Removing Duplicates
