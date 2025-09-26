@@ -42,4 +42,6 @@ we then filled the formuala down the column H that we named "Age Bands"
 ## Pivot tables
 ## Analysis
 ### KPIs
+## Licence
+CC BY-SA 4.0
 
